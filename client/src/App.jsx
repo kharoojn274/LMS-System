@@ -6,11 +6,6 @@ import CourseList from "./pages/student/CourseList";
 import MyEnrollments from "./pages/student/MyEnrollments";
 import Player from "./pages/student/Player";
 import Loading from "./components/student/Loading";
-import Educator from "./pages/educator/Educator";
-import Dashboard from "./pages/educator/Dashboard";
-import AddCourse from "./pages/educator/AddCourse";
-import MyCourses from "./pages/educator/MyCourses";
-import StudentsEnrolled from "./pages/educator/StudentsEnrolled";
 import Navbar from "./components/student/Navbar";
 
 const App = () => {
